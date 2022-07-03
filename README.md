@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 , I'm LAS
+💻    &ensp; advised by Prof Ke Wei <br>
+🎓    &ensp; junior at fudan university <br>
+📖    &ensp; interested in bandit and reinforcement learning<br>
+📫    &ensp; mail: [lasli1520@gmail.com](mailto:lasli1520@gmail.com) <br>
+
+
+
 
 <!--
 **LAS1520/LAS1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
