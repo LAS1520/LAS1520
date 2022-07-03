@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm LAS
+### Hi there 👋 , I'm las
 💻    &ensp; advised by Prof Ke Wei <br>
 🎓    &ensp; junior at fudan university <br>
 📖    &ensp; interested in bandit and reinforcement learning<br>
