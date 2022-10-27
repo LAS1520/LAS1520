@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm slyvain
+### Hi there 👋 , I'm Slyvain
 💻    &ensp; advised by Prof Ke Wei <br>
 🎓    &ensp; junior at fudan university <br>
 📖    &ensp; interested in bandit and reinforcement learning<br>
@@ -6,8 +6,8 @@
 📫    &ensp; mail: [lasli1520@gmail.com](mailto:lasli1520@gmail.com) <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAS1520)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAS1520&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LAS1520/LAS1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
