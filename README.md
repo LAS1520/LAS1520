@@ -1,7 +1,8 @@
-### Hi there 👋 , I'm las
+### Hi there 👋 , I'm slyvain
 💻    &ensp; advised by Prof Ke Wei <br>
 🎓    &ensp; junior at fudan university <br>
 📖    &ensp; interested in bandit and reinforcement learning<br>
+🌱    &ensp; now being research intern at CASIA on DRL
 📫    &ensp; mail: [lasli1520@gmail.com](mailto:lasli1520@gmail.com) <br>
 
 
