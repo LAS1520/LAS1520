@@ -2,7 +2,7 @@
 💻    &ensp; advised by Prof Ke Wei <br>
 🎓    &ensp; junior at fudan university <br>
 📖    &ensp; interested in bandit and reinforcement learning<br>
-🌱    &ensp; now being research intern at CASIA on DRL
+⚡    &ensp; now being research intern at CASIA on DRL<br>
 📫    &ensp; mail: [lasli1520@gmail.com](mailto:lasli1520@gmail.com) <br>
 
 
